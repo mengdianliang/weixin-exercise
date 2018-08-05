@@ -1,0 +1,13 @@
+/* pages/about/about.wxss */
+.container{
+  padding: 0;
+}
+.about{
+  padding: 60rpx 30rpx;
+}
+.about view{
+  text-indent: 68rpx;
+  font-size: 34rpx;
+  line-height: 40rpx;
+  color: #999;
+}

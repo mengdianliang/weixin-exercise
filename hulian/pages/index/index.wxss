@@ -1,0 +1,43 @@
+/**index.wxss**/
+.container{
+  padding: 0;
+}
+.TopIndex{
+  background-color:#1aaa1a;
+  height: 200rpx;
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  font-size: 50rpx;
+  line-height: 200rpx;
+}
+.IndexMore{
+  padding: 40rpx 0;
+}
+.IndexMore,.IndexMore view{
+  width: 100%;
+}
+.IndexMore view{
+  padding: 20rpx 40rpx;
+  border-bottom: 2rpx solid #eee;
+}
+.IndexBtn{
+  padding-top: 80rpx;
+  width: 100%;
+}
+.btn{
+  display: block;
+  width: 80%;
+  border-radius: 50rpx;
+  border: 1px solid #1aaa1a;
+  font-size: 36rpx;
+}
+.btn::after{
+  border: none;
+}
+.footer{
+  padding-top: 80rpx;
+  text-align: center;
+  color: #cacaca;
+  font-size: 32rpx;
+}

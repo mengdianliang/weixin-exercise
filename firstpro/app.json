@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/join/join",
+    "pages/logs/logs",
+    "pages/detail/detail"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "信贷",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "images/ic_home_normal.png",
+        "selectedIconPath": "images/ic_home_pressed.png"
+      },
+      {
+        "pagePath": "pages/join/join",
+        "text": "加入",
+        "iconPath": "images/ic_join_normal.png",
+        "selectedIconPath": "images/ic_join_pressed.png"
+      }
+    ]
+  }
+}

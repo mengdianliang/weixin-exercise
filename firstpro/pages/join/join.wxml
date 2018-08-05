@@ -1,0 +1,16 @@
+<image class="banner" src="/images/about.jpg"></image>
+<view class="block">
+  <view class="block-title">关于我们</view>
+  <text class="block-desc">的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方</text>
+</view>
+<view class="block">
+  <view class="block-title">关于我们</view>
+  <text class="block-desc">的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方</text>
+</view>
+<view class="block">
+  <view class="block-title">关于我们</view>
+  <text class="block-desc">的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方的第三方士大夫地方大幅度的地方给对方</text>
+</view>
+<view class="footer">
+  <button bindtap="tel">电话咨询</button>
+</view>

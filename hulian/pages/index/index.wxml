@@ -1,0 +1,17 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="TopIndex">
+    <!-- <image src=""></image> -->
+    <view class="toptxt">互联创想</view>
+  </view>
+  <view class="IndexMore">
+    <view bindtap="callphone">电话 / 0351-7171839</view>
+    <view bindtap="chatwei">微信 / xinglei123</view>
+    <view bindtap="emailto">邮件 / 4564565@qq.com</view>
+    <view bindtap="addressto">地址 / 诚泰商务西城区</view>
+  </view>
+  <view class="IndexBtn">
+    <button class="btn" open-type="contact">咨询在线客服</button>
+  </view>
+  <view class="footer">@2018 优企点将 版权所有</view>
+</view>
